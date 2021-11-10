@@ -1,0 +1,26 @@
+#wrapper{
+    width: 800;
+    background-color: #acc;
+    margin: 0 auto;
+}
+#header{
+    height: 100;
+    background-color: #4848e4;
+    color: #fff;
+}
+#left-menu{
+    background-color: lightsalmon;
+    width: 30%;
+    float: left;
+}
+#main-content{
+    background-color: #b4ffff;
+    width: 70%;
+    float: right;
+    height: 300px;
+}
+#footer{
+    background-color: #4848e4;
+    height: 50px;
+    color: #f3f33e;
+}
